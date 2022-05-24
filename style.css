@@ -1,0 +1,62 @@
+body{
+  background-color: #EAF6F6;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 20px;
+  line-height: 2;
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h1:hover{
+  color: purple;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+a{
+  color: #11999E;
+  margin: 10px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: purple;
+}
+
+.love{
+  border-radius: 50%;
+}
+
+.top-heart{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-heart{
+  bottom: 400px;
+  left: 400px;
+  position: absolute;
+}
